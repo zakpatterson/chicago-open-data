@@ -18,7 +18,7 @@ Where:
 ## CPD Police Accountability
 
   * [Chicago Police Data Project](http://invisible.institute/police-data) \[[DS](https://github.com/invinst/chicago-police-data/tree/master/data)\] \[[V](https://cpdp.co/)\] \[[DOCS](https://github.com/invinst/chicago-police-data)\] - [Invisible Institute](http://invisible.institute)
-  * [COPA: Civilian Office of Police Accountability](https://www.chicagocopa.org/) \[[V](https://www.chicagocopa.org/data-cases/data-dashboard/)\] - 
+  * [COPA: Civilian Office of Police Accountability](https://www.chicagocopa.org/) \[[V](https://www.chicagocopa.org/data-cases/data-dashboard/)\]
 
 ## CPS
 
@@ -28,7 +28,7 @@ Where:
 
 ## Real estate
 
-  * Cook Cuonty Assessor Property Search \[[V](https://www.cookcountyassessor.com/Search/Property-Search.aspx)\]
+  * Cook County Assessor Property Search \[[V](https://www.cookcountyassessor.com/Search/Property-Search.aspx)\]
 
 ## Other aggregators
   * [Open Data Portal](https://data.cityofchicago.org)
