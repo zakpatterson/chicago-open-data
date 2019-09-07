@@ -36,3 +36,7 @@ Where:
 
 ## Courts
   * Data Catalog - Courts \[[Aggregator](https://datacatalog.cookcountyil.gov/browse?category=Courts)\]
+
+
+# Illinois Data Sources
+  * State of Illinois Data Portal \[[Aggregator](https://data.illinois.gov/)\]
