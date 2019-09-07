@@ -1,19 +1,19 @@
 # Chicago Open Data Sources
 
-The below is a curated list of public data available for the City of Chicago.
+The below is a curated list of public data available for the City of Chicago, Cook County, and Illinois. Data for sources such as the court system will appear under Cook County or Illinois, even though they will include data about Chicago.
 
 ## Formats
 
 For each datasource, follow this format, including links in brackets if any exist
 
-* Title [DS][V][API][Docs] - Agency or company
+* Title [DS][V][API][Docs][Aggregator] - Agency or company
 
 Where:
   * DS: Link to raw datasets
   * V: Link to data visualizations
 
 
-# Data by Topic
+# Chicago Specific Data by Topic
 
 ## CPD Police Accountability
 
@@ -26,11 +26,17 @@ Where:
 
 ## Chicago Council
 
-## Real estate
-
-  * Cook County Assessor Property Search \[[V](https://www.cookcountyassessor.com/Search/Property-Search.aspx)\]
-
 ## Other aggregators
   * [Open Data Portal](https://data.cityofchicago.org)
 
+# Cook County Data Sources
 
+## Real Estate
+  * Assessor Property Search \[[V](https://www.cookcountyassessor.com/Search/Property-Search.aspx)\]
+
+## Courts
+  * Data Catalog - Courts \[[Aggregator](https://datacatalog.cookcountyil.gov/browse?category=Courts)\]
+
+
+# Illinois Data Sources
+  * State of Illinois Data Portal \[[Aggregator](https://data.illinois.gov/)\]
